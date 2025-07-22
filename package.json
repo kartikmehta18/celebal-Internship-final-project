@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/kartikmehta18/celebal-Internship-final-projec",
+  "homepage": "https://github.com/kartikmehta18/celebal-Internship-final-project",
 
   "name": "vite_react_shadcn_ts",
   "private": true,
@@ -12,7 +12,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
